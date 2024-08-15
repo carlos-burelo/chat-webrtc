@@ -2,7 +2,7 @@
 
 Chat application using WebRTC and WebSockets for real-time communication between users.
 
-[Preview](./capture.png)
+![Preview](./capture.png)
 
 ## Features
 
